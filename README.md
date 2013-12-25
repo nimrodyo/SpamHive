@@ -7,7 +7,7 @@ SpamHive will analyze the spam for you, it will extract every detail in that ema
 
 Usage:
  - Users will forward their spam email to SpamHive email address. A response email will be sent back to the user with link to SpamHive analysis report.
- - Users will upload emails in various formats (.eml, .txt, etc...) and will receive analysis response in a few seconds.
+ - Users will upload emails in various formats (eml, emlx, msg, mbx, txt, etc...) and will receive analysis response in a few seconds.
 
 Extracted Data:
  - SMTP Servers IP Adresses
