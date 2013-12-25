@@ -27,6 +27,6 @@ SpamHive will support the following features:
  
 
 Techonology:
-Server UI:  Django
-Email Analysis: Python at first
-DB: Need to check if NonSQL is usable....?
+- Server UI:  Django
+- Email Analysis: Python at first
+- DB: Need to check if NonSQL is usable....?
