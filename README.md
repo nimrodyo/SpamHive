@@ -19,12 +19,15 @@ Extracted Data:
  - TXT Content
 
 SpamHive will support the following features:
- - Index SMTP servers will be crosses against other projects such as: SPAMHAUS, and more...
- - Index URL & Domain Names will be crosses against PhishTank, ZeusTracker and more...
- - Source email Address, SMTP Headers, Signature Data, and TXT Content will beindexed and analyze withing SpamHive DB.
+ - SPAM Filtering Services like SpamAssasin, Etc...
+ - SPAM Blacklists:
+  -  http://mxtoolbox.com/problem/blacklist/
+ - Indexed SMTP servers will be crosses against other projects such as: SPAMHAUS, and more...
+ - Indexed URL & Domain Names will be crosses against PhishTank, ZeusTracker and more...
+ - Source email Address, SMTP Headers, Signature Data, and TXT Content will be indexed and analyzed withing SpamHive DB.
  - Attached Files will be checked against VT and other OpenSource DB's.
 
- 
+
 
 Techonology:
 - Server UI:  Django
