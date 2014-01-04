@@ -25,6 +25,7 @@ SpamHive will support the following features:
   -  http://mxtoolbox.com/problem/blacklist/
   -  http://www.stopforumspam.com/
   -  http://www.spamhaus.com/  - DNSBL free
+  -  http://www.stopspam.org/rblcheck/index.php#checkform
  - Indexed SMTP servers will be crosses against other projects such as: SPAMHAUS, and more...
  - Indexed URL & Domain Names will be crosses against PhishTank, ZeusTracker and more...
  - Source email Address, SMTP Headers, Signature Data, and TXT Content will be indexed and analyzed withing SpamHive DB.
